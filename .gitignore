@@ -4,10 +4,6 @@ venv/
 readme.txt
 .vscode/
 
-#temperary
-migrations/
-app/models.py
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
